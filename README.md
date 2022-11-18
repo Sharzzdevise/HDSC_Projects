@@ -1,3 +1,3 @@
-# Stage A (Into to Python for Machine learning)
+# Stage A 
 
 Hamoye Data Science Internship (Fall 2022)
