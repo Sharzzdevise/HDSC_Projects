@@ -1,4 +1,3 @@
-# StageA-python-Quiz
-A graded quiz I wrote on introduction to python for machine learning
+# Stage A 
 
-Hamoye Stage A Quiz
+Hamoye Data Science Internship (Fall 2022)
